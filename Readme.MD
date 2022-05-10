@@ -17,3 +17,5 @@
 # 4. Install dependencies and devdependencies: 'npm install'
 # 5. Run the project: 'npm run start'
 
+# Demo: 
+# ![Image demo](https://github.com/ChinhNguyenVan/Weather-App/blob/main/DemoWithLocation-HaNoi.png?raw=true)
